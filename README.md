@@ -75,7 +75,6 @@ The dashboard enables users to explore sales data using dynamic filters and visu
 ---
  
 ## 👨‍💻 Author
---
 
 **Zasiah Tafheem**
  
@@ -85,7 +84,7 @@ The dashboard enables users to explore sales data using dynamic filters and visu
 ---
  
 ## ⭐ If you like this project
- 
+
 Give this repository a ⭐ and connect with me for more Power BI and Data Analytics projects!
 --
 Contact me: 📩 tafheemzasiah@gmail.com

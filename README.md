@@ -42,13 +42,14 @@ The dashboard enables users to explore sales data using dynamic filters and visu
 - Payment Mode
 
 ## Tools Used
- 
 - Microsoft Power BI
 - DAX Measures
 - Power Query
 - Excel
 
 ## Business Questions Answered
+
+
 ✅ What is the total sales revenue?
 ✅ How much profit is generated?
 ✅ Which products drive the highest sales?
@@ -58,10 +59,10 @@ The dashboard enables users to explore sales data using dynamic filters and visu
 
 ## Dataset used
 
+
 -Product Information
 -Sales Transactions
 -Category Details
 -Payment Methods
 -Sale Types
 -Buying and Selling Prices
-

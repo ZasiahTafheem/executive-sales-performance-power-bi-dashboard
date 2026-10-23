@@ -11,8 +11,7 @@ The dashboard enables users to explore sales data using dynamic filters and visu
 
 ## Dashboard Preview
 
-
-<img width="1200" height="1000" alt="Dynamic Sales Dashboard_Final_v2" src="https://github.com/user-attachments/assets/623bbac2-f9c2-45d2-afcd-27c549238ed9" />
+<img width="773" height="431" alt="Sales Dashboard_trial_1-Zasiah_v3" src="https://github.com/user-attachments/assets/37db6723-0f60-426a-b00d-775ecdd34ca0" />
 
 ## Key Features
 

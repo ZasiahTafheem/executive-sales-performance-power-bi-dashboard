@@ -67,7 +67,7 @@ The dashboard enables users to explore sales data using dynamic filters and visu
 💰 Buying & Selling Prices
 
 ## 🎯 Project Type
- 
+
 🚀 Portfolio Project
 📊 Business Intelligence Project
 📈 Data Analytics Project
@@ -75,7 +75,8 @@ The dashboard enables users to explore sales data using dynamic filters and visu
 ---
  
 ## 👨‍💻 Author
- 
+--
+
 **Zasiah Tafheem**
  
 🎓 HDR Student 
@@ -86,6 +87,7 @@ The dashboard enables users to explore sales data using dynamic filters and visu
 ## ⭐ If you like this project
  
 Give this repository a ⭐ and connect with me for more Power BI and Data Analytics projects!
+--
 Contact me: 📩 tafheemzasiah@gmail.com
 
 

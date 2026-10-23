@@ -12,7 +12,7 @@ The dashboard enables users to explore sales data using dynamic filters and visu
 ## Dashboard Preview
 
 
-<img width="664" height="374" alt="Dynamic Sales Dashboard_Final_v2" src="https://github.com/user-attachments/assets/623bbac2-f9c2-45d2-afcd-27c549238ed9" />
+<img width="1200" height="1000" alt="Dynamic Sales Dashboard_Final_v2" src="https://github.com/user-attachments/assets/623bbac2-f9c2-45d2-afcd-27c549238ed9" />
 
 ## Key Features
 
@@ -64,5 +64,5 @@ The dashboard enables users to explore sales data using dynamic filters and visu
 -Category Details
 -Payment Methods
 -Sale Types
--Buying and Selling Prices<img width="664" height="374" alt="Dynamic Sales Dashboard_Final_v2" src="https://github.com/user-attachments/assets/47e0322d-0d13-4a05-8e5f-b414abfd17f7" />
+-Buying and Selling Prices
 

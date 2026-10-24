@@ -1,9 +1,6 @@
 ![Power BI](https://img.shields.io/badge/PowerBI-yellow)
-
 ![Excel](https://img.shields.io/badge/Excel-green)
-
 ![DAX](https://img.shields.io/badge/DAX-blue)
-
 ![Portfolio](https://img.shields.io/badge/Portfolio-Project-orange)
 
 # 📊 executive-sales-performance-power-bi-dashboard
@@ -24,22 +21,29 @@ The dashboard enables users to explore sales data using dynamic filters and visu
 ### 📈 Key Insights
 
 💰 Total Sales : 170.6K
+
 💵 Profit Margin : 7%
+
 🛒 Total Orders: 2K
+
 🏆 Top Product Category: Beverage
+
 💳 Most Used Payment Method: Online
+
 🌐 Highest Performing Sales Channel: Retail
 
 ### 📊 Sales Analysis
 
 📅 Monthly Sales Trend
+
 📈 Monthly Profit Trend
+
 🏆 Top 5 Products by Sales
 
-### Business Insights
-
 🏷️ Sales by Category
+
 💳 Sales by Payment Mode
+
 🌐 Sales by Sale Type
 
 ## 🛠 Skills Demonstrated
@@ -62,10 +66,15 @@ The dashboard enables users to explore sales data using dynamic filters and visu
 ## Business Questions Answered
 
 ✅ What is the total sales revenue?
+
 ✅ How much profit is generated?
+
 ✅ Which products drive the highest sales?
+
 ✅ What are the monthly sales trends?
+
 ✅ Which sales channels perform best?
+
 ✅ Which product categories contribute most to revenue?
 
 ## Dataset used
@@ -101,7 +110,6 @@ Give this repository a ⭐ and connect with me for more Power BI and Data Analyt
 Contact me: 📩 tafheemzasiah@gmail.com
 
 ## 💼 Services I Can Provide
--- 
 
 - Sales Dashboards
 - Financial Dashboards

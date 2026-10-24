@@ -32,7 +32,7 @@ The dashboard enables users to explore sales data using dynamic filters and visu
 
 🌐 Highest Performing Sales Channel: Retail
 
-### 📊 Sales Analysis
+## 📊 SALES Analysis
 
 📅 Monthly Sales Trend
 

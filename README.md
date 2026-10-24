@@ -3,7 +3,7 @@
 ![DAX](https://img.shields.io/badge/DAX-blue)
 ![Portfolio](https://img.shields.io/badge/Portfolio-Project-orange)
 
-# 📊 executive-sales-performance-power-bi-dashboard
+# 📊 power-bi-executive-sales-dashboard
 Interactive Power BI Sales Dashboard featuring KPI monitoring, sales trends, product analysis, category performance, and dynamic filtering.
 
 ## 🖼️ Dashboard Preview
@@ -31,6 +31,7 @@ The dashboard enables users to explore sales data using dynamic filters and visu
 💳 Most Used Payment Method: Online
 
 🌐 Highest Performing Sales Channel: Retail
+
 
 ## 📊 SALES Analysis
 

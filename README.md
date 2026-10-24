@@ -1,7 +1,17 @@
+![Power BI](https://img.shields.io/badge/PowerBI-yellow)
+
+![Excel](https://img.shields.io/badge/Excel-green)
+
+![DAX](https://img.shields.io/badge/DAX-blue)
+
+![Portfolio](https://img.shields.io/badge/Portfolio-Project-orange)
+
 # 📊 executive-sales-performance-power-bi-dashboard
 Interactive Power BI Sales Dashboard featuring KPI monitoring, sales trends, product analysis, category performance, and dynamic filtering.
 
-# Dynamic Sales Dashboard - Power BI
+## 🖼️ Dashboard Preview
+
+<img width="773" height="431" alt="Sales Dashboard_trial_1-Zasiah_v3" src="https://github.com/user-attachments/assets/37db6723-0f60-426a-b00d-775ecdd34ca0" />
 
 ## 📌 Overview
 
@@ -9,18 +19,16 @@ This project presents an interactive Power BI Sales Dashboard designed to monito
 
 The dashboard enables users to explore sales data using dynamic filters and visually analyze revenue, profit, orders, and category-level performance.
 
-## 🖼️ Dashboard Preview
-
-<img width="773" height="431" alt="Sales Dashboard_trial_1-Zasiah_v3" src="https://github.com/user-attachments/assets/37db6723-0f60-426a-b00d-775ecdd34ca0" />
-
 ## Key Features
 
-### 📈 KPI Monitoring
+### 📈 Key Insights
 
-💰 Total Sales
-💵 Total Profit
-🎯 Profit Margin
-🛒 Total Orders
+💰 Total Sales : 170.6K
+💵 Profit Margin : 7%
+🛒 Total Orders: 2K
+🏆 Top Product Category: Beverage
+💳 Most Used Payment Method: Online
+🌐 Highest Performing Sales Channel: Retail
 
 ### 📊 Sales Analysis
 
@@ -34,19 +42,22 @@ The dashboard enables users to explore sales data using dynamic filters and visu
 💳 Sales by Payment Mode
 🌐 Sales by Sale Type
 
-### Interactive Filtering
+## 🛠 Skills Demonstrated
 
-- Year
-- Category
-- Sale Type
-- Payment Mode
+- Data Modeling
+- Power Query (ETL)
+- DAX Measures
+- KPI Design
+- Interactive Visualizations
+- Business Intelligence Reporting
+- Dashboard Design
 
-## 🛠️ Tools Used
+## 🛠️ Technology Stack
 
-📊 Microsoft Power BI
-📗 Excel
-⚙️ Power Query
-📈 DAX
+-Microsoft Power BI
+-Excel
+-Power Query
+-DAX
 
 ## Business Questions Answered
 
@@ -89,4 +100,11 @@ Give this repository a ⭐ and connect with me for more Power BI and Data Analyt
 --
 Contact me: 📩 tafheemzasiah@gmail.com
 
+## 💼 Services I Can Provide
+-- 
+
+- Sales Dashboards
+- Financial Dashboards
+- Executive KPI Reports
+- Interactive Business Reports
 

@@ -33,6 +33,10 @@ The dashboard enables users to explore sales data using dynamic filters and visu
 
 🛒 Total Orders: 2K
 
+📅 Best Month by Profit: Sept
+
+💰 Most Sales product: Rubber Mat
+
 🏆 Top Product Category: Beverage
 
 💳 Most Used Payment Method: Online
@@ -71,6 +75,12 @@ The dashboard enables users to explore sales data using dynamic filters and visu
 -Power Query
 -DAX
 
+## Sample DAX Measures
+
+Profit = SUM(InputData[Total Selling Price])-sum(InputData[total Buying Price])
+
+Profit % = [Profit]/SUM(InputData[total Buying Price])
+
 ## Business Questions Answered
 
 ✅ What is the total sales revenue?
@@ -87,11 +97,11 @@ The dashboard enables users to explore sales data using dynamic filters and visu
 
 ## Dataset used
 
-📦 Product Information
-🧾 Sales Transactions
-🏷️ Product Categories
+📦 Product Information (Name, Category)
+🧾 Sales Transactions (Order Date, Quantity Sold, Revenue)
+🏷️ Revenue
 💳 Payment Methods
-🌐 Sale Types
+🌐 Sales Channel
 💰 Buying & Selling Prices
 
 ## 🎯 Project Type

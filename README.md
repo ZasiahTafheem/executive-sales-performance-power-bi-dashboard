@@ -23,9 +23,7 @@ This project presents an interactive Power BI Sales Dashboard designed to monito
 
 The dashboard enables users to explore sales data using dynamic filters and visually analyze revenue, profit, orders, and category-level performance.
 
-## Key Features
-
-### 📈 Key Insights
+## Key Business Insights
 
 💰 Total Sales : 170.6K
 
@@ -71,8 +69,11 @@ The dashboard enables users to explore sales data using dynamic filters and visu
 ## 🛠️ Technology Stack
 
 -Microsoft Power BI
+
 -Excel
+
 -Power Query
+
 -DAX
 
 ## Sample DAX Measures

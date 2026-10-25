@@ -1,3 +1,4 @@
+
 ![Power BI](https://img.shields.io/badge/PowerBI-yellow)
 ![Excel](https://img.shields.io/badge/Excel-green)
 ![DAX](https://img.shields.io/badge/DAX-blue)
@@ -9,6 +10,10 @@ Interactive Power BI Sales Dashboard featuring KPI monitoring, sales trends, pro
 ## 🖼️ Dashboard Preview
 
 <img width="773" height="431" alt="Sales Dashboard_trial_1-Zasiah_v3" src="https://github.com/user-attachments/assets/37db6723-0f60-426a-b00d-775ecdd34ca0" />
+
+<img width="957" height="563" alt="Power Query_Sales Dashboard" src="https://github.com/user-attachments/assets/c852ad90-858d-48b6-8236-e0c22c56c051" />
+
+<img width="958" height="559" alt="Data TAble_Sales Dashboard" src="https://github.com/user-attachments/assets/4a5d3123-e7d0-4bbd-a0dc-a6392f4f1313" />
 
 ## 📌 Overview
 

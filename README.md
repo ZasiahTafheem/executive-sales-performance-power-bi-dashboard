@@ -33,7 +33,7 @@ The dashboard enables users to explore sales data using dynamic filters and visu
 
 📅 Best Month by Profit: Sept
 
-💰 Most Sales product: Rubber Mat
+💰Top product by sale: Rubber Mat
 
 🏆 Top Product Category: Beverage
 
@@ -58,7 +58,6 @@ The dashboard enables users to explore sales data using dynamic filters and visu
 
 ## 🛠 Skills Demonstrated
 
-- Data Modeling
 - Power Query (ETL)
 - DAX Measures
 - KPI Design
@@ -99,8 +98,7 @@ Profit % = [Profit]/SUM(InputData[total Buying Price])
 ## Dataset used
 
 📦 Product Information (Name, Category)
-🧾 Sales Transactions (Order Date, Quantity Sold, Revenue)
-🏷️ Revenue
+🧾 Sales Transactions (Order Date, Quantity Sold)
 💳 Payment Methods
 🌐 Sales Channel
 💰 Buying & Selling Prices

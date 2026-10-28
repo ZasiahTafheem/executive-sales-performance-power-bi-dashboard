@@ -124,7 +124,7 @@ Profit % = [Profit]/SUM(InputData[total Buying Price])
 
 Give this repository a ⭐ and connect with me for more Power BI and Data Analytics projects!
 --
-Contact me: 📩 tafheemzasiah@gmail.com
+Contact me: 📩 zasiahtafheem1@gmail.com
 
 ## 💼 Services I Can Provide
 

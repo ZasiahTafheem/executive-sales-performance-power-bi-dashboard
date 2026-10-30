@@ -13,13 +13,18 @@ Business managers often struggle to obtain a consolidated view of sales performa
 
 <img width="773" height="431" alt="Sales Dashboard_trial_1-Zasiah_v3" src="https://github.com/user-attachments/assets/37db6723-0f60-426a-b00d-775ecdd34ca0" />
 
-## Power Query overview
-<img width="957" height="563" alt="Power Query_Sales Dashboard" src="https://github.com/user-attachments/assets/c852ad90-858d-48b6-8236-e0c22c56c051" />
+## 📌 Project Overview
 
-## Data Table overview
-<img width="958" height="559" alt="Data TAble_Sales Dashboard" src="https://github.com/user-attachments/assets/4a5d3123-e7d0-4bbd-a0dc-a6392f4f1313" />
+This project presents an interactive Power BI Executive Sales Dashboard designed to provide insights into sales performance, profitability, customer purchasing behaviour, and business growth trends.
 
-## Key Business Insights
+The dashboard enables users to:
+
+-Monitor key business KPIs
+-Analyse monthly sales and profit trends
+-Identify top-performing products and categories
+-Compare sales channels and payment methods.
+
+## 📊 Key Performance Indicators (KPIs)
 
 💰 Total Sales : 170.6K
 
@@ -37,29 +42,34 @@ Business managers often struggle to obtain a consolidated view of sales performa
 
 🌐 Highest Performing Sales Channel: Retail
 
+## 🔍 Business Questions Answered
 
-## 📊 SALES Analysis
+✅ What is the total sales revenue?
 
-📅 Monthly Sales Trend
+✅ How much profit is generated?
 
-📈 Monthly Profit Trend
+✅ Which products drive the highest sales?
 
-🏆 Top 5 Products by Sales
+✅ What are the monthly sales trends?
 
-🏷️ Sales by Category
+✅ Which sales channels perform best?
 
-💳 Sales by Payment Mode
+✅ Which product categories contribute most to revenue?
 
-🌐 Sales by Sale Type
+## 💡 Business Recommendations
+
+-Expand inventory planning for top-selling products.
+-Focus marketing investment on high-performing sales channels.
 
 ## 🛠 Skills Demonstrated
 
-- Power Query (ETL)
-- DAX Measures
+- Power Query 
+- DAX Calculations
 - KPI Design
 - Interactive Visualizations
 - Business Intelligence Reporting
 - Dashboard Design
+- Data Visualization
 
 ## 🛠️ Technology Stack
 
@@ -74,53 +84,28 @@ Profit = SUM(InputData[Total Selling Price])-sum(InputData[total Buying Price])
 
 Profit % = [Profit]/SUM(InputData[total Buying Price])
 
-## Business Questions Answered
-
-✅ What is the total sales revenue?
-
-✅ How much profit is generated?
-
-✅ Which products drive the highest sales?
-
-✅ What are the monthly sales trends?
-
-✅ Which sales channels perform best?
-
-✅ Which product categories contribute most to revenue?
-
 ## Dataset used
 
 📦 Product Information (Name, Category)
 🧾 Sales Transactions (Order Date, Quantity Sold)
 💳 Payment Methods
-🌐 Sales Channel
+🌐 Sales Channels
 💰 Buying & Selling Prices
 
 ## 🎯 Project Type
 
-🚀 Portfolio Project
-📊 Business Intelligence Project
-📈 Data Analytics Project
+-Portfolio Project
+-Business Intelligence Project
+-Data Analytics Project
  
 ---
- 
 ## 👨‍💻 Author
 
 **Zasiah Tafheem**
-🎓 HDR Student 
-📈 Data Analytics Enthusiast
- 
+HDR Student | Aspiring Data Analyst
+📩 zasiahtafheem1@gmail.com
 ---
-## ⭐ If you like this project
+## ⭐ Support
 
-Give this repository a ⭐ and connect with me for more Power BI and Data Analytics projects!
---
-Contact me: 📩 zasiahtafheem1@gmail.com
-
-## 💼 Services I Can Provide
-
-- Sales Dashboards
-- Financial Dashboards
-- Executive KPI Reports
-- Interactive Business Reports
-
+If you found this project useful, please consider giving it a star ⭐.
+Feel free to connect with me to discuss data analytics, Power BI, and business intelligence projects.

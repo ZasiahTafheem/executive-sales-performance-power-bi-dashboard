@@ -20,8 +20,11 @@ This project presents an interactive Power BI Executive Sales Dashboard designed
 The dashboard enables users to:
 
 -Monitor key business KPIs
+
 -Analyse monthly sales and profit trends
+
 -Identify top-performing products and categories
+
 -Compare sales channels and payment methods.
 
 ## 📊 Key Performance Indicators (KPIs)
@@ -59,6 +62,7 @@ The dashboard enables users to:
 ## 💡 Business Recommendations
 
 -Expand inventory planning for top-selling products.
+
 -Focus marketing investment on high-performing sales channels.
 
 ## 🛠 Skills Demonstrated
@@ -102,6 +106,7 @@ Profit % = [Profit]/SUM(InputData[total Buying Price])
 ## 👨‍💻 Author
 
 **Zasiah Tafheem**
+
 HDR Student | Aspiring Data Analyst
 📩 zasiahtafheem1@gmail.com
 ---

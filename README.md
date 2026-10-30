@@ -4,6 +4,10 @@
 ![DAX](https://img.shields.io/badge/DAX-blue)
 ![Portfolio](https://img.shields.io/badge/Portfolio-Project-orange)
 
+## Business Problem
+
+To help the management team monitor sales performance, identify top-performing products and catogories, track profit trends through interactive KPI visualizations.
+
 # 📊 power-bi-executive-sales-dashboard
 Interactive Power BI Sales Dashboard featuring KPI monitoring, sales trends, product analysis, category performance, and dynamic filtering.
 

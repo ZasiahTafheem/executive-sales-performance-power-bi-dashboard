@@ -99,17 +99,20 @@ Profit % = [Profit]/SUM(InputData[total Buying Price])
 ## 🎯 Project Type
 
 -Portfolio Project
+
 -Business Intelligence Project
+
 -Data Analytics Project
  
----
+
 ## 👨‍💻 Author
 
 **Zasiah Tafheem**
 
 HDR Student | Aspiring Data Analyst
+
 📩 zasiahtafheem1@gmail.com
----
+
 ## ⭐ Support
 
 If you found this project useful, please consider giving it a star ⭐.

@@ -6,7 +6,7 @@
 
 ## Business Problem
 
-To help the management team monitor sales performance, identify top-performing products and catogories, track profit trends through interactive KPI visualizations.
+Business managers often struggle to obtain a consolidated view of sales performance across products, categories, sales channels, and payment methods. This sales performance dashboard was developed to help management team monitor key sales KPIs, identify top-performing products and categories, evaluate profitability trends, and support data-driven business decisions through interactive reporting.
 
 # 📊 power-bi-executive-sales-dashboard
 Interactive Power BI Sales Dashboard featuring KPI monitoring, sales trends, product analysis, category performance, and dynamic filtering.
